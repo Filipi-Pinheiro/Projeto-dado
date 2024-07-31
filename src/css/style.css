@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+body{
+  text-align: center;
+  padding: 30px;
+}
+
+.dado{
+  width: 300px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.result{
+  font-size: 1.5em;
+}
+
+.animation{
+  animation: dado-animation .8s;
+} 
+
+@keyframes dado-animation{
+  from{
+    width: 50px;
+  }
+  to{
+    width: 300px;
+  }
+}
