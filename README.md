@@ -6,7 +6,7 @@
 
 ## Description
 
- a study site developed by me, which generates a random number of data when clicked, I created this site mainly to learn more about the random element of javascript, but you can also It helps me a lot in my RPG games.
+ a study site developed by me, which generates a random number of data when clicked, I created this site mainly to learn more about the random element of javascript, but it also helped me a lot when I wanted to play that classic tabletop RPG.
 
 ## found challenges
 
