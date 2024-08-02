@@ -1,5 +1,9 @@
 # Projeto-dado
 
+<p align="center">
+ <img width="150" src="src/imagens/1.gif">
+</p>
+
 ## Description
 
  a study site developed by me, which generates a random number of data when clicked, I created this site mainly to learn more about the random element of javascript, but you can also It helps me a lot in my RPG games.
