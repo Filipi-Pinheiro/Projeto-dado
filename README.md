@@ -32,4 +32,4 @@
 ## How to access
 
 To access the website, click on the link below! <br>
-<a href="https://filipi-pinheiro.github.io/Projeto-dado/" target="_black">Access to website</a>
+<a href="https://filipi-pinheiro.github.io/Projeto-dado/" target="_blank">Access to website</a>
